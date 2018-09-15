@@ -50,8 +50,8 @@ margin:auto;
     background: #fff;
     z-index: 999;
     opacity: 0.5;
-    width%: 100%;
-    border-right-width: 100px; border-left-width: 0px; padding-left: 100px; padding-right: 150px;
+    width: 100%;
+    
 }
 
 
@@ -137,9 +137,15 @@ margin:auto;
     font-size: 60%;
 }
 
+.box{
+    background-image: url('../images/title.gif');
+    min-height: 100%;
+  
+  }
+
 
 .pimg1{
-  background-image: url('../images/luma.jpeg');
+  background-image: url('../images/home.jpg');
   min-height: 100%;
 
 }
